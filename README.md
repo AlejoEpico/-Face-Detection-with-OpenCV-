@@ -1,2 +1,2 @@
 # -Face-Detection-with-OpenCV-
-🤖 An interactive face detection project implemented using OpenCV in Python. This repository provides code that utilizes the Haar cascade classifier to detect faces in images. 
+🤖 An interactive face detection project implemented using OpenCV in Python. This repository provides code that utilizes the Haar cascade classifier to detect faces in images. Witness the magic as the algorithm identifies and outlines faces with a vibrant green frame! Enhance your computer vision skills and dive into the captivating world of face detection. Join the excitement, share your images, and unlock the potential of computer vision. ✨
